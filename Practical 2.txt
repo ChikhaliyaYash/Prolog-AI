@@ -1,4 +1,4 @@
-practical 2
+practical-2
 
 >>>> Write a program to solve Tower of Hanoi problem in python.
 

@@ -1,0 +1,11 @@
+phone_list(person(yash,mistry),"9654781245",bdate(day(05),month(01),year(2000))). 
+phone_list(person(john,doi),"7984124580",bdate(day(16),month(07),year(1999))).
+phone_list(person(vraj,shah),"8941217856",bdate(day(12),month(09),year(2001))). 
+phone_list(person(krish,desai),"9409454741",bdate(day(25),month(10),year(1997))). 
+phone_list(person(vatsal,patel),"9876979674",bdate(day(10),month(03),year(1995))). 
+phone_list(person(nirman,gupta),"7254725569",bdate(day(15),month(06),year(2004))). 
+phone_list(person(devraj,rajput),"7821456376",bdate(day(21),month(012),(1999))). 
+phone_list(person(deep,gajera),"9956012784",bdate(day(28),month(05),year(2004))). 
+phone_list(person(darshan,mangukiya),"9023478515",bdate(day(14),month(02),year(1998)). 
+phone_list(person(mihir,dobariya),"9631478520",bdate(day(11),month(11),year(2001))). 
+phone_list(person(jay,rajpara),"8732564157",bdate(day(23),month(07),year(2005))).

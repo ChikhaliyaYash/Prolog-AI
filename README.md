@@ -20,7 +20,6 @@ How does Prolog figure out the solution? You may feel a bit underwhelmed but the
  It is one of the few things that computers are very good at. In fact, much, much better than us humans. A billion times better.
  True, it's very far from how humans think but for some problems brute force does get us from A to B, and sometimes even to such C's which we could never have thought of.
  Here's just a few examples of problems that Prolog has been used to solve:
- 
 
 *   Toy problems such as Sudoku, the N queens problem or the farmer, wolf, goat and cabbage problem.
  
